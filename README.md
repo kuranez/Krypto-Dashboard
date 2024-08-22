@@ -33,6 +33,6 @@ Add your Binance API-Key to *keys.py* and download and run Jupyter-Notebook for 
 
 ## Resources
 
-- [# Master Binance API with Python (2024)](https://analyzingalpha.com/binance-api-python-tutorial)
-- [# How to create dashboard using Matplotlib in Jupyter Notebook](https://runmercury.com/tutorials/matplotlib-dashboard/)
-- [# Plotly Fundamentals ](https://plotly.com/python/plotly-fundamentals/)
+- [ Master Binance API with Python (2024)](https://analyzingalpha.com/binance-api-python-tutorial)
+- [ How to create dashboard using Matplotlib in Jupyter Notebook](https://runmercury.com/tutorials/matplotlib-dashboard/)
+- [ Plotly Fundamentals ](https://plotly.com/python/plotly-fundamentals/)
