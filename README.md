@@ -13,9 +13,13 @@ WebApp is hosted on [https://kuranez.runmercury.com/app/krypto-dashboard-v1](htt
 
 ## How to Use
 
-Add your Binance API-Key to *keys.py* and download and run Jupyter-Notebook for your Region (*Binance* or *BinanceUS*).
+Add your Binance API-Key to *keys.py* and download and run Jupyter-Notebook.
  
 ![screenshot of keys.py](https://raw.githubusercontent.com/kuranez/Krypto-Dashboard/main/screenshots/add_keys.png)
+
+If you need to change region to Binance US change URL in this cell in Jupyter-Notebook.
+
+![chnage_to_us.png](https://raw.githubusercontent.com/kuranez/Krypto-Dashboard/v.1.1/screenshots/change_to_us.png)
 
 ## Features
 
