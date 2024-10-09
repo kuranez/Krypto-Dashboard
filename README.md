@@ -17,7 +17,9 @@ Simple finance dashboard to track and compare cryptocurrency prices written in P
 
 ## WebApp
 
-Currently not available.
+Simple example dashboard (*crypto_prices_over_time.ipynb*) is hosted on Anaconda Cloud.
+
+[View Demo Dashboard App on Anaconda Cloud!](https://supportive-cuban-boa.anacondaapps.cloud/crypto_prices_over_time)
 
 ## Requirements & Installation
 
