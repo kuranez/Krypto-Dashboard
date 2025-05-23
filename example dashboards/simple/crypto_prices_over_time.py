@@ -2,7 +2,7 @@
 
 # Import Libraries
 import os
-import keys
+from dotenv import load_dotenv
 import requests
 import pandas as pd
 import plotly.graph_objects as go
